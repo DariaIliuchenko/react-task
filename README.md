@@ -6,3 +6,7 @@ useState
 ## modal
 
 modal, useState, component
+
+## quiz
+
+useState,map
